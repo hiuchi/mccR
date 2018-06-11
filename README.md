@@ -1,5 +1,5 @@
 # mccr
-This package provides a function to calculate the Matthews correlation coefficient (MCC) (Matthews BW, 1975). MCC is used in wade range of fileds as a measure of binary calassification. The MCC values are calculated following foumula;
+This package provides a function to calculate the Matthews correlation coefficient (MCC) (Matthews BW, *Biochim Biophys Acta.*, 1975). MCC is used in wade range of fileds as a measure of binary calassification. The MCC values are calculated following foumula;
 
 <a href="https://www.codecogs.com/eqnedit.php?latex=MCC&space;=\frac{TP&space;\times&space;TN&space;-&space;FP&space;\times&space;FN}{\sqrt{(TP&plus;FP)(TP&plus;FN)(TN&plus;FP)(TN&plus;FN)}}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?MCC&space;=\frac{TP&space;\times&space;TN&space;-&space;FP&space;\times&space;FN}{\sqrt{(TP&plus;FP)(TP&plus;FN)(TN&plus;FP)(TN&plus;FN)}}" title="MCC =\frac{TP \times TN - FP \times FN}{\sqrt{(TP+FP)(TP+FN)(TN+FP)(TN+FN)}}" /></a>
 
